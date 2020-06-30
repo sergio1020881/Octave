@@ -1,0 +1,9 @@
+/***INSTALL**/
+sudo apt-get install liboctave-dev
+/******************************************/
+Install packages by command line of octave:
+ex:
+pkg install control-3.2.0.tar.gz
+
+/******************************************/
+
